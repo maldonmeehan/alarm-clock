@@ -1,0 +1,22 @@
+{
+  "name": "alarm-clock",
+  "description": "Build an online alarm clock using Moment.js! Here are some goals for this project:",
+  "main": "gulpfile.js",
+  "authors": [
+    "Marty Fitchen <mfitchen@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.14.1"
+  }
+}
