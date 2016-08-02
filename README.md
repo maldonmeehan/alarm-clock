@@ -1,3 +1,11 @@
+# EPICODUS STUDENT PROJECT | Modern JS Apps
+
+#### Alarm Clock, July 28, 2016_
+
+#### By _**Marty Fitchen & Maldon Meehan, Epicodus**_
+
+## Description
+
 ### _Alarm Clock_
 Build an online alarm clock using Moment.js! Here are some goals for this project:
 
@@ -22,3 +30,44 @@ Bonus goals are below! These are optional - come back to them if you have extra 
 * As a user I would like to be able to set multiple alarms because mornings are hard.
 
 The full lesson can be found here, <a href="https://www.learnhowtoprogram.com/javascript/modern-js-apps/alarm-clock-weather-app">learnhowtoprogram.com/javascript/modern-js-apps/alarm-clock-weather-app</a>.
+
+## Setup/Installation Requirements
+
+* Clone this repository:
+* In the command-line run:
+```
+$ npm install
+```
+* In the command-line run:
+```
+$ bower install
+```
+* In the command-line run:
+```
+$ gulp build
+```
+* In the command-line run (to open the Index.html file in a development server.):
+```
+$ gulp serve
+```
+
+## Known Bugs
+
+* Currently no known bugs
+
+## Support and contact details
+
+If you run into any issues or have questions, ideas, or concerns, please feel free to contact Maldon or Marty on GitHub.
+
+## Technologies Used
+
+* HTML
+* JavaScript
+* jQuery
+* Command-line Terminal
+
+### License
+
+*MIT License*
+
+Copyright (c) 2016 **Epicodus**
