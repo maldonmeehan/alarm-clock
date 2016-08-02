@@ -3,7 +3,7 @@ function Time(alarm) {
 };
 
 Time.prototype.alarmTime = function() {
-  var currentTime = moment().format('hh:mm:ss a');
+  // var currentTime = moment().format('hh:mm:ss a');
 };
 
 exports.timeModule = Time;
